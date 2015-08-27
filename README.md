@@ -7,7 +7,7 @@ This project illustrates how to implement a parorama viewer on iOS
 
 Bellow is the output for Google Cardboard:
 
-![ScreenShot](https://raw.github.com/JagieChen/SFFishEyeEffect/master/s2.jpg)
+![ScreenShot](https://raw.github.com/JagieChen/SFOpenGLESPanorama/master/s2.jpg)
 
 ## Features
 
