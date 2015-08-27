@@ -12,7 +12,7 @@ Bellow is the output for Google Cardboard:
 ## Features
 
 * Based on OpenGLES 2.0,without GLKBaseEffect;
-* The camera's viewpoint can be changed by pan gestures or CMDeviceMotion's attitudes;
+* The camera's viewpoint can be controlled by pan gestures or CMDeviceMotion's attitudes;
 * Support output for Google Cardboard benefitting from "CardboardSDK-iOS" (https://github.com/rsanchezsaez/CardboardSDK-iOS);
 * I keep the code as concise as I can.
 
