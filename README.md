@@ -7,14 +7,14 @@ This project illustrates how to implement a parorama viewer on iOS
 
 Bellow is the output for Google Cardboard:
 
-![ScreenShot](https://raw.github.com/JagieChen/SFOpenGLESPanorama/master/s2.jpg)
+![ScreenShot](https://raw.github.com/JagieChen/SFOpenGLESPanorama/master/s2.png)
 
 ## Features
 
-1.Based on OpenGLES 2.0,without GLKBaseEffect;
-2.The camera's viewpoint can be changed by pan gestures or CMDeviceMotion's attitudes;
-3.Support output for Google Cardboard benefitting from "CardboardSDK-iOS" (https://github.com/rsanchezsaez/CardboardSDK-iOS);
-4.I keep the code as concise as I can.
+* Based on OpenGLES 2.0,without GLKBaseEffect;
+* The camera's viewpoint can be changed by pan gestures or CMDeviceMotion's attitudes;
+* Support output for Google Cardboard benefitting from "CardboardSDK-iOS" (https://github.com/rsanchezsaez/CardboardSDK-iOS);
+* I keep the code as concise as I can.
 
 ## License
 
